@@ -4,7 +4,7 @@
 
 
 char auth[] = "EWrwkkm5vPRnN-9bea_3_rQ_n1t-1uA_";
-char ssid[] ="AndoidAP3851";
+char ssid[] ="AndroidAP3851";
 char pass[] = "9008105453";
 
 
